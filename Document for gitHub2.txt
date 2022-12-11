@@ -1,2 +1,2 @@
-Document 3
+Document for git
 no edit
